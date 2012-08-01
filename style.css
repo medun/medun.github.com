@@ -7,9 +7,11 @@ font-size: 10px;
 body { font-size: 1.2em; 
 	}
 
-h1 { font-size: 8em;
+h1 { font-size: 11em;
 	font-weight: 300;
 	text-transform: uppercase;
+	margin:0;
+	padding:0;
 	}
 	
 header { text-align: center;
