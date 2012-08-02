@@ -2,9 +2,15 @@
 * {
 font-family: "ff-dagny-web-pro", sans-serif;
 font-size: 10px;
+ padding: 0;
+margin: 0;
  }
 
 body { font-size: 1.2em; 
+	background: #0678a8;
+	}
+
+.wrap { margin-top: 5%;	
 	}
 
 h1 { font-size: 11em;
@@ -12,6 +18,10 @@ h1 { font-size: 11em;
 	text-transform: uppercase;
 	margin:0;
 	padding:0;
+/*	color: #e8ffc4;*/
+/*	color: #aff93b*/
+	color: #e7ee77;
+	letter-spacing: 2em;
 	}
 	
 header { text-align: center;
@@ -20,11 +30,15 @@ header { text-align: center;
 #about { text-align: center;
 }
 
-#what { font-size: 4em; 
-	font-weight: 400;
+#what { font-size: 3em; 
+	font-weight: 600;
+	text-transform:uppercase;
+	letter-spacing:.4em;
+	color: #d7d9bf;
 	}
 
 #how { font-size: 2.5em;
+	color: #13130e;
 	}
 	
 section ul { text-align: left;
