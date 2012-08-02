@@ -13,21 +13,33 @@ body { font-size: 1.2em;
 .wrap { margin-top: 5%;	
 	}
 
-h1 { font-size: 13em;
-	font-weight: 300;
-	text-transform: uppercase;
+h1 { 
+	font-size: 30em;
+	font-weight: 600;
 	margin:0;
 	padding:0;
+
 /*	color: #e8ffc4;*/
 /*	color: #aff93b*/
 	color: #e7ee77;
-	letter-spacing: .9em;
+	letter-spacing: 0em;
+/*	text-transform: uppercase;*/
 	}
 	
+.first {
+	font-size: 5em;
+	position: absolute;
+	left: 5%;
+	/*color: #441a13;*/
+	color: #fc6d56;
+		}
+	
+		
 header { text-align: center;
 	}
 	
 #about { text-align: center;
+	color: #fdf9f8;
 }
 
 #what { font-size: 3em; 
@@ -38,11 +50,14 @@ header { text-align: center;
 	}
 
 #how { font-size: 2em;
-	color: #13130e;
+	/*color: #13130e;*/
+	color: #c9d9d6;
 	}
 	
 section { 
-	display: none;
+	/*display: none;*/
+	color: #fdf9f8;
+	
 }	
 
 aside { 
