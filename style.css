@@ -1,23 +1,24 @@
 /* Reset  */
 * {
 font-family: "ff-dagny-web-pro", sans-serif;
-/*font-family: "ff-basic-gothic-web-pro", sans-serif;
-*/font-size: 10px;
+font-family: "ff-basic-gothic-sc-web-pro", sans-serif;
+font-size: 10px;
  padding: 0;
 margin: 0;
  }
 
 body { font-size: 1.2em; 
 	/*background: #0678a8;*/
-	background: #1f3047;
+	/*background: #1f3047;*/
 	}
 
 .wrap { margin-top: 5%;	
 	}
 
 h1 { 
+	font-family: "ff-basic-gothic-web-pro", sans-serif;
 	font-size: 10em;
-	font-weight: 600;
+	font-weight: 400;
 	margin:0;
 	padding:0;
 /*position: absolute;*/
@@ -29,10 +30,11 @@ h1 {
 /*	color: #efbd25;*/
 	color: #0b66e1;
 	letter-spacing: 0em;
-/*	text-transform: uppercase;*/
+/*	text-transform: lowercase;*/
 	}
 	
 .first {
+
 /*	font-size: 10em;
 	position: absolute;
 	left: 15%;*/
@@ -48,22 +50,26 @@ h1 {
 	
 		
 header { text-align: center;
+	
 	}
 	
 #about { text-align: center;
 	color: #fdf9f8;
+
 }
 
 #what { font-size: 3em; 
-	font-weight: 600;
-	text-transform:uppercase;
-	letter-spacing:.4em;
-	color: #d7d9bf;
+	font-weight: 400;
+	text-transform:lowercase;
+/*	letter-spacing:.4em;
+*/	color: #d7d9bf;
+
 	}
 
 #how { font-size: 2em;
 	/*color: #13130e;*/
 	color: #c9d9d6;
+	font-weight: 400;
 	}
 	
 section { 
