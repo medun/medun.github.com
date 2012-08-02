@@ -1,37 +1,49 @@
 /* Reset  */
 * {
 font-family: "ff-dagny-web-pro", sans-serif;
-font-size: 10px;
+/*font-family: "ff-basic-gothic-web-pro", sans-serif;
+*/font-size: 10px;
  padding: 0;
 margin: 0;
  }
 
 body { font-size: 1.2em; 
-	background: #0678a8;
+	/*background: #0678a8;*/
+	background: #1f3047;
 	}
 
 .wrap { margin-top: 5%;	
 	}
 
 h1 { 
-	font-size: 30em;
+	font-size: 10em;
 	font-weight: 600;
 	margin:0;
 	padding:0;
-
+/*position: absolute;*/
+/*right: 15%;*/
 /*	color: #e8ffc4;*/
 /*	color: #aff93b*/
-	color: #e7ee77;
+/*	color: #e7ee77;*/
+/*	color: #25a74d;*/
+/*	color: #efbd25;*/
+	color: #0b66e1;
 	letter-spacing: 0em;
 /*	text-transform: uppercase;*/
 	}
 	
 .first {
-	font-size: 5em;
+/*	font-size: 10em;
 	position: absolute;
-	left: 5%;
+	left: 15%;*/
 	/*color: #441a13;*/
-	color: #fc6d56;
+/*	color: #fc6d56;*/
+/*	color: #ff784f;*/
+/*	color: #de3c0a;*/
+/*	color: #bb401a;*/
+/*	color: #7fc4ac;*/
+/*	color: #335481;*/
+	color: #0b66e1;
 		}
 	
 		
