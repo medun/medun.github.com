@@ -27,8 +27,8 @@ header {
 
 		}
 h1.first{ 
-	font-size: 1.4em;
-	font-weight: 500;
+	font-size: 1.8em;
+	font-weight: 200;
 /*position: absolute;*/
 /*right: 15%;*/
 /*	color: #e8ffc4;*/
@@ -46,7 +46,7 @@ h1.first{
 h3 { 
 	font-family: "ff-basic-gothic-sc-web-pro", sans-serif;
 	font-size: 1em;
-	text-transform: uppercase;
+	text-transform: lowercase;
 		letter-spacing: 2px;
 		font-weight: 600;
 		
@@ -55,7 +55,7 @@ h3#title {
 	
 	font-weight: 200;
 	font-size: 1.1em;
-		text-transform: none;
+		text-transform: lowercase;
 }
 section { text-align: center;
 /*	color: #fdf9f8;*/
