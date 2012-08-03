@@ -28,7 +28,7 @@ header {
 		}
 h1.first{ 
 	font-size: 1.8em;
-	font-weight: 200;
+	font-weight: 500;
 /*position: absolute;*/
 /*right: 15%;*/
 /*	color: #e8ffc4;*/
@@ -40,7 +40,7 @@ h1.first{
 /*	color: #ea0de2;*/
 /*	color:#e62552;*/
 	letter-spacing: 2px;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	}
 
 h3 { 
@@ -48,25 +48,24 @@ h3 {
 	font-size: 1em;
 	text-transform: lowercase;
 		letter-spacing: 2px;
-		font-weight: 600;
+		font-weight: 500;
 		
 	}	
 h3#title {
-	
+	font-family: "ff-basic-gothic-web-pro", sans-serif;
 	font-weight: 200;
 	font-size: 1.1em;
-		text-transform: lowercase;
+	text-transform: none;
 }
-section { text-align: center;
+section { 
 /*	color: #fdf9f8;*/
-	font-size: .9em;
+	
 		font-weight: 200;
 		width: 85%;
 
 }
 
-p { width: 80%;
-	margin: 20px auto 20px auto;
+p { 
 	}
 
 ul { list-style-type: none;
